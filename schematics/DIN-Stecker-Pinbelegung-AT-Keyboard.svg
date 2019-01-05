@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.0"
+   width="297mm"
+   height="210mm"
+   id="svg265"
+   sodipodi:docname="DIN-Stecker-Pinbelegung-AT-Keyboard.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <metadata
+     id="metadata271">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs269" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="2560"
+     inkscape:window-height="1412"
+     id="namedview267"
+     showgrid="false"
+     units="mm"
+     inkscape:zoom="1.9374726"
+     inkscape:cx="23.549358"
+     inkscape:cy="709.32212"
+     inkscape:window-x="2560"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg265" />
+  <path
+     d="m 76.644818,147.1716 c -18.476,-5.649 -28.886,-25.228 -23.238,-43.704 5.649,-18.476001 25.228,-28.886001 43.704,-23.238001 18.476002,5.649 28.886002,25.228001 23.238002,43.704001 -3.515,11.496 -11.742,19.723 -23.238002,23.238 m -20.219,0.006 c 0.289,-5.513 4.997,-9.752 10.509,-9.463 5.145,0.269 9.194,4.318 9.463,9.463"
+     style="display:inline;overflow:visible;visibility:visible;fill:none;fill-opacity:0.31372501;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;enable-background:accumulate"
+     id="path249"
+     inkscape:connector-curvature="0" />
+  <path
+     d="m 89.377818,93.700599 c 0,1.38 -1.12,2.5 -2.5,2.5 -1.38,0 -2.5,-1.12 -2.5,-2.5 0,-1.38 1.12,-2.5 2.5,-2.5 1.38,0 2.5,1.12 2.5,2.5 z m -22.5,20.000001 c 0,1.38 -1.12,2.5 -2.5,2.5 -1.38,0 -2.5,-1.12 -2.5,-2.5 0,-1.38 1.12,-2.5 2.5,-2.5 1.38,0 2.5,1.12 2.5,2.5 z m 45.000002,0 c 0,1.38 -1.12,2.5 -2.5,2.5 -1.38,0 -2.5,-1.12 -2.5,-2.5 0,-1.38 1.12,-2.5 2.5,-2.5 1.38,0 2.5,1.12 2.5,2.5 z M 72.877818,99.700599 c 0,1.380001 -1.12,2.500001 -2.5,2.500001 -1.38,0 -2.5,-1.12 -2.5,-2.500001 0,-1.38 1.12,-2.5 2.5,-2.5 1.38,0 2.5,1.12 2.5,2.5 z m 32.000002,0 c 0,1.380001 -1.12,2.500001 -2.5,2.500001 -1.38,0 -2.500002,-1.12 -2.500002,-2.500001 0,-1.38 1.120002,-2.5 2.500002,-2.5 1.38,0 2.5,1.12 2.5,2.5 z"
+     style="display:inline;overflow:visible;visibility:visible;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;enable-background:accumulate"
+     id="path251"
+     inkscape:connector-curvature="0" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:16px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="35.578568"
+     y="119.53395"
+     id="text4783"><tspan
+       sodipodi:role="line"
+       id="tspan4781"
+       x="35.578568"
+       y="119.53395">1</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:16px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="81.625473"
+     y="71.898819"
+     id="text4783-3"><tspan
+       sodipodi:role="line"
+       id="tspan4781-6"
+       x="81.625473"
+       y="71.898819">2</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:16px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="123.77876"
+     y="119.52657"
+     id="text4783-7"><tspan
+       sodipodi:role="line"
+       id="tspan4781-5"
+       x="123.77876"
+       y="119.52657">3</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:16px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="48.413795"
+     y="85.584976"
+     id="text4783-35"><tspan
+       sodipodi:role="line"
+       id="tspan4781-62"
+       x="48.413795"
+       y="85.584976">4</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:16px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="115.74956"
+     y="85.767471"
+     id="text4783-9"><tspan
+       sodipodi:role="line"
+       id="tspan4781-1"
+       x="115.74956"
+       y="85.767471">5</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:16px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="154.06044"
+     y="73.135582"
+     id="text4783-2"><tspan
+       sodipodi:role="line"
+       id="tspan4781-7"
+       x="154.06044"
+       y="73.135582">1: Clock (White)</tspan><tspan
+       sodipodi:role="line"
+       x="154.06044"
+       y="93.135582"
+       id="tspan4845">2: Data (Green)</tspan><tspan
+       sodipodi:role="line"
+       x="154.06044"
+       y="113.13558"
+       id="tspan4847">3: n/c</tspan><tspan
+       sodipodi:role="line"
+       x="154.06044"
+       y="133.13559"
+       id="tspan4849">4: Gnd (Brown)</tspan><tspan
+       sodipodi:role="line"
+       x="154.06044"
+       y="153.13559"
+       id="tspan4851">5: +5V (Yellow)</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:16px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="46.081566"
+     y="169.36107"
+     id="text4783-2-0"><tspan
+       sodipodi:role="line"
+       x="46.081566"
+       y="169.36107"
+       id="tspan4851-6">DIN 41524</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:1.25;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+     x="57.291134"
+     y="30.335154"
+     id="text1566"><tspan
+       sodipodi:role="line"
+       id="tspan1564"
+       x="57.291134"
+       y="30.335154"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:sans-serif;-inkscape-font-specification:sans-serif">Buchse</tspan></text>
+</svg>

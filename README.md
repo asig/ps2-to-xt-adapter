@@ -23,6 +23,8 @@ Files
 |----------------------------------------------------|--------------------------------------------------------------|
 | capture/*                                          | Bunch of protocol captures, captured with saleae Logc 1.2.18 |
 | schematics/adapter.fzz                             | schematics for the breadboard in Fritzing                    |
+| schematics/adapter_bb.png                          | PNG export of breadboard schematics                          |
+| schematics/adapter_bb.svg                          | SVG export of breadboard schematics                          |
 | schematics/DIN-Stecker-Pinbelegung-AT-Keyboard.svg | XT connector's pinout                                        |
 | schematics/ps2-pcb.svg                             | PS/2 connector's pinout                                      |
 | ps2-to-xt-adapter.ino                              | Code for the actual protocol conversion                      |
